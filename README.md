@@ -109,27 +109,29 @@ The dashboard helps understand factors affecting employee retention and supports
 
 ## Key Insights
 
-- Employees working overtime show higher attrition.
-- Certain departments experience higher employee turnover.
-- Lower salary employees are more likely to leave the organization.
-- Job satisfaction impacts employee retention.
+
 - Research & Development department has the highest employee count.
+- Single employees have the highest attrition rate.
+- Research & Development and Sales departments experience the highest employee turnover.
+- Sales Executives, Research Scientists, and Laboratory Technicians contribute most to attrition.
+- Employees in lower salary slabs are more likely to leave.
+- Job satisfaction and compensation significantly impact retention.
 
 ---
 
 ## Business Recommendations
 
-- Improve employee engagement programs.
+- Increase employee engagement and recognition programs.
 - Reduce overtime workload to improve work-life balance.
-- Focus retention strategies on high attrition departments and job roles.
-- Review compensation strategies for lower salary bands.
-- Improve employee satisfaction and career growth opportunities.
+- Improve compensation for lower salary bands.
+- Create clear career growth opportunities.
+- Conduct department-specific retention initiatives.
+- Improve job satisfaction through regular feedback and development programs.
 
 ---
 
 ## Project Files
 
-- `dashboard.pbix` → Power BI Dashboard
 - `queries.sql` → SQL Queries
 - `hr_analysis.ipynb` → Python/Pandas Analysis
 - `images/` → Dashboard Screenshots
@@ -138,5 +140,5 @@ The dashboard helps understand factors affecting employee retention and supports
 
 ## Author
 
-Rahul Mittan
+Rahul Mitan
 

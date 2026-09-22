@@ -1,4 +1,4 @@
-# HR Analytics Dashboard using SQL, Python & Power BI
+# HR Analytics Dashboard using SQL, Excel & Power BI
 
 ## Project Overview
 
@@ -11,24 +11,12 @@ The dashboard helps understand factors affecting employee retention and supports
 ## Tools & Technologies Used
 
 - SQL (MySQL)
-- Python
-- Pandas
-- NumPy
 - Power BI
 - Excel
 
 ---
 
-## Python/Pandas Used For
 
-- Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Department-wise Salary Analysis
-- Attrition Analysis
-- Data Transformation
-
----
 
 ## Business Problems Solved
 
@@ -133,7 +121,6 @@ The dashboard helps understand factors affecting employee retention and supports
 ## Project Files
 
 - `queries.sql` → SQL Queries
-- `hr_analysis.ipynb` → Python/Pandas Analysis
 - `images/` → Dashboard Screenshots
 
 ---

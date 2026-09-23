@@ -1,8 +1,8 @@
-# HR Analytics Dashboard using SQL, Excel & Power BI
+# HR Analytics & Employee Attrition Analysis | SQL + Power BI + Excel
 
 ## Project Overview
 
-This project focuses on analyzing employee data to identify workforce trends, employee attrition patterns, salary distribution, and department-level insights using SQL, Python, and Power BI.
+This project focuses on analyzing employee data to identify workforce trends, employee attrition patterns, salary distribution, and department-level insights using SQL,Excel and Power BI.
 
 The dashboard helps understand factors affecting employee retention and supports data-driven HR decision-making.
 
@@ -78,8 +78,9 @@ The dashboard helps understand factors affecting employee retention and supports
 
 - Job Role Attrition
 - Salary Slab Attrition
-- Education Field Analysis
+- Overtime Attrition Analysis
 - Job Satisfaction Analysis
+- Department Attrition
 
 ---
 
@@ -96,26 +97,23 @@ The dashboard helps understand factors affecting employee retention and supports
 ---
 
 ## Key Insights
-
-
-- Research & Development department has the highest employee count.
-- Single employees have the highest attrition rate.
-- Research & Development and Sales departments experience the highest employee turnover.
-- Sales Executives, Research Scientists, and Laboratory Technicians contribute most to attrition.
-- Employees in lower salary slabs are more likely to leave.
-- Job satisfaction and compensation significantly impact retention.
-
+- The dataset contains **1,470 employees**, with **237 employees leaving**, resulting in an overall attrition rate of **16.12%**.
+- **Research & Development** has the largest workforce with **961 employees**, while **Sales** has the highest department-level attrition rate at **20.63%**.
+- **Sales Representatives** have the highest job-role attrition rate at **39.76%**, followed by **Laboratory Technicians at 23.94%** and **Human Resources at 23.08%**.
+- Attrition is higher among lower salary bands. Employees in the **Up to 5k salary slab recorded a 21.76% attrition rate**, compared with **3.76% for employees earning 15k+**.
+- Employees working overtime recorded a **30.53% attrition rate**, compared with **10.44% among employees not working overtime**.
+- Job satisfaction also showed differences in attrition rates, with employees having a satisfaction score of **1 recording 22.84% attrition**, compared with **11.33% for employees with a score of 4**.
+- Attrition patterns varied across departments, job roles, salary levels, overtime status, and employee characteristics, highlighting several areas for further retention analysis.
 ---
 
 ## Business Recommendations
-
-- Increase employee engagement and recognition programs.
-- Reduce overtime workload to improve work-life balance.
-- Improve compensation for lower salary bands.
-- Create clear career growth opportunities.
-- Conduct department-specific retention initiatives.
-- Improve job satisfaction through regular feedback and development programs.
-
+- Focus retention efforts on departments with higher attrition rates, particularly the **Sales department**.
+- Review workload, incentives, career progression, and employee support for high-attrition roles such as **Sales Representatives and Laboratory Technicians**.
+- Review compensation structures for lower salary bands and evaluate whether compensation and career progression opportunities are competitive.
+- Monitor overtime workload and identify teams with consistently high overtime to improve workload distribution and work-life balance.
+- Strengthen employee engagement initiatives for employees reporting lower job satisfaction.
+- Develop department- and role-specific retention strategies instead of applying the same retention approach across the entire workforce.
+- Regularly monitor attrition rate by department, job role, salary slab, overtime, and job satisfaction to identify emerging retention risks.
 ---
 
 ## Project Files

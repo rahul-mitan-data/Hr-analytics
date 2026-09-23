@@ -88,11 +88,11 @@ The dashboard helps understand factors affecting employee retention and supports
 
 ### Page 1
 
-![Dashboard Page 1](images/dashboard-page1.png)
+![Dashboard Page 1](images/HrAnalytics-page1.png)
 
 ### Page 2
 
-![Dashboard Page 2](images/dashboard-page2.png)
+![Dashboard Page 2](images/HrAnalytics-page2.png)
 
 ---
 
